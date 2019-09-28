@@ -7,12 +7,9 @@ body {
     margin: 100px auto;
 }
 
-svg {
-    width: 80vw;
-}
-
-.countdown {
+.countdown-svg {
     font-family: 'Major Mono Display', monospace;
-    font-size: 48px;
     font-weight: bold;
+    width: 80vw;
+    font-size: 1vw;
 }
