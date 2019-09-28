@@ -13,3 +13,35 @@ body {
     width: 80vw;
     font-size: 1vw;
 }
+
+.donut-svg {
+    max-width: 80vw;
+    max-height: 60vh;
+}
+
+.donut-background {
+    stroke: #888;
+}
+
+.donut-days .donut-ring {
+    stroke: #de7a11;
+}
+
+.donut-hours .donut-ring {
+    stroke: #0f6c8b;
+}
+
+
+.donut-minutes .donut-ring {
+    stroke: #dea211;
+}
+
+.donut-seconds .donut-ring {
+    stroke: #1d3297;
+}
+
+.boring-error {
+    width: 100vw;
+    padding: 5vw;
+    font-size: 10vw;
+}
