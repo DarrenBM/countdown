@@ -1,0 +1,18 @@
+body {
+    height: 100%;
+    text-align: center;
+}
+
+.countdown-container {
+    margin: 100px auto;
+}
+
+svg {
+    width: 80vw;
+}
+
+.countdown {
+    font-family: 'Major Mono Display', monospace;
+    font-size: 48px;
+    font-weight: bold;
+}
