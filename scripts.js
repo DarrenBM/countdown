@@ -6,7 +6,6 @@ const SCALE = 100;
 const VIEWBOX = `0 0 ${SCALE} ${SCALE}`;
 const TIMEZONE = 'America/Denver';
 const THE_DATE = moment.tz('2019-11-07 00:00', TIMEZONE);
-const THE_DATE = moment.tz('2019-09-27 00:00', TIMEZONE);
 const CX = `${SCALE/2}`;
 const CY = `${SCALE/2}`;
 
