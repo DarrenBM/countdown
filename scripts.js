@@ -101,7 +101,7 @@ function updateTime() {
     }
     const daysString = days.toFixed(7);
     countdownElements.forEach(el => {
-        el.innerHTML = daysString;
+        el.innerHTML = `${daysString} days!`;
     });
 }
 
