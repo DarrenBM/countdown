@@ -11,8 +11,13 @@ body {
     font-family: 'Major Mono Display', monospace;
     font-weight: bold;
     width: 80vw;
-    font-size: 1vw;
+    text-align: center;
+    /* font-size: 1vw; */
 }
+
+/* .countdown-text {
+    font-size: 1vw;
+} */
 
 .donut-svg {
     max-width: 80vw;
